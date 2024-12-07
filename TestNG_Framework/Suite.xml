@@ -1,0 +1,14 @@
+<suite name="suite">
+<test name="FirstTestCase">
+<classes>
+<class name="nov11.FirstTestNGclass">
+</class>
+</classes>
+</test>
+<test name="SecondTestcase">
+<classes>
+<class name="nov11.SecondTestNGclass">
+</class>
+</classes>
+</test>
+</suite>
